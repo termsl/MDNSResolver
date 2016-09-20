@@ -16,4 +16,5 @@ Features
 - Ability to make Cisco- like output to use in "access-list" sections.
 - Automatic load/save settings.
 
+Requre  .Net 3 or later, tested in Win7-8-10
 ©Termsl, http://termsl.ru 2016.
